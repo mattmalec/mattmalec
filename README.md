@@ -5,4 +5,4 @@ I'm Matt, a Java, Go, and Python developer from New York with a love for blockch
 - Currently building production-grade Kubernetes clusters on bare metal cloud providers and on-prem — designing systems that run more affordably, yet more performant than the cloud.
 - Working with [Zora](https://x.com/ourZORA) to build the most advanced and capable indexer on the blockchain.
 
-📫 You can find me on [Twitter](https://twitter.com/mjmalec41) or on Discord if you know where to look :)
+📫 You can find me on [Twitter](https://x.com/mjmalec41) or on Discord if you know where to look :)
