@@ -1,8 +1,9 @@
-# Hey there 👋
-I'm Matt, a Java, Go, and Python developer from New York with a love for blockchain & system architecture.
-- I love metrics and observability. I'm a fan of building dashboards and creating alerts that answer "why" with little to no thought.
-- Using [Pterodactyl](https://github.com/pterodactyl/panel/) as a really simple way to run Docker containers.
-- Currently building production-grade Kubernetes clusters on bare metal cloud providers and on-prem — designing systems that run more affordably, yet more performant than the cloud.
-- Working with [Zora](https://x.com/ourZORA) to build the most advanced and capable indexer on the blockchain.
+# hey there 👋
+i'm matt - an infra eng from new york
+- i love metrics and o11y
+- i'm convinced bare metal kube is going to be the next big thing - it allows you to iterate quickly + is pretty cheap to operate
+  - beyond kube, i think self hosted options are generally becoming very competitive to the cloud
+- leading infra efforts at [zora](https://x.com/zora) to scale for our next million users
+- alice in chains unplugged is arguably one of the best live performances of all time
 
-📫 You can find me on [Twitter](https://x.com/mjmalec41) or on Discord if you know where to look :)
+📫 you can find me on [x](https://x.com/mjmalec41) or on discord if you know where to look :)
